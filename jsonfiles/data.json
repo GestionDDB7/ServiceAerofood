@@ -1,0 +1,80 @@
+{
+  "generator": {
+    "companyId": "658086fd253e0209d29c5028",
+    "plazaId": "658c8c3b171add5730c73d49",
+    "deviceId": "1",
+    "salesPersonId": "19"
+  },
+  "buyer": {
+    "flightNumber": "555555",
+    "documentId": "123456",
+    "documentType": "PASSPORT"
+  },
+  "transaction": {
+    "discount": { "id": "1", "name": "descuento", "multiplier": 1 },
+    "id": "00040010000003011",
+    "dateTime": "2022-01-05T11:31:54-05:00",
+    "currency": "USD",
+    "taxTotal": 0,
+    "netTotal": 226.15,
+    "total": 226.15,
+    "type": "SALE",
+    "paymentOption": "CREDIC_CARD",
+    "details": [
+      {
+        "productName": "undefined GRADIENT CK TEE",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "8720108547628",
+        "total": 31.6,
+        "netTotal": 31.6,
+        "taxTotal": 0
+      },
+      {
+        "productName": "undefined FLORAL GAPHIC TEE",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "8720108539807",
+        "total": 31.6,
+        "netTotal": 31.6,
+        "taxTotal": 0
+      },
+      {
+        "productName": "undefined GRADIENT CK TEE",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "8720108544771",
+        "total": 31.6,
+        "netTotal": 31.6,
+        "taxTotal": 0
+      },
+      {
+        "productName": "undefined SS LIQUID TOUCH INTERLOCK SOLI",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "749194672746",
+        "total": 29.75,
+        "netTotal": 29.75,
+        "taxTotal": 0
+      },
+      {
+        "productName": "undefined MINIMAL MONOGRAM CAMERA BAG18",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "8720108585033",
+        "total": 67.6,
+        "netTotal": 67.6,
+        "taxTotal": 0
+      },
+      {
+        "productName": "undefined CORE MONOGRAM REGULAR TEE",
+        "quantity": "1",
+        "price": { "currency": "USD", "value": 1 },
+        "id": "8719855868438",
+        "total": 34,
+        "netTotal": 34,
+        "taxTotal": 0
+      }
+    ]
+  }
+}

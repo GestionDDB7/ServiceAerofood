@@ -1,0 +1,5 @@
+Fecha y hora
+plazaid
+nro de factura
+detalle del error
+nombre del archivo
